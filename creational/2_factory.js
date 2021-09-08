@@ -1,4 +1,7 @@
-// pattern that is used to make a factory of some similar objects
+/*
+pattern that is used to make a factory of some similar objects
+ */
+
 class SimpleMembership {
     constructor(name) {
         this.name = name;
