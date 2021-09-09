@@ -12,3 +12,12 @@ Creational patterns allow us to create
 Structural patterns help us to integrate new functionality in existing code
 * adapter
 * decorator
+* facade
+* flyweight
+* proxy
+
+## Behaviour
+Behaviour patterns allow us to improve communication between objects with different types
+* chain of responsibility
+* command
+* iterator
