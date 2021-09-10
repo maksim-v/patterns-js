@@ -21,3 +21,10 @@ Behaviour patterns allow us to improve communication between objects with differ
 * chain of responsibility
 * command
 * iterator
+* mediator
+* observer
+* state
+* strategy
+* template
+
+https://www.youtube.com/watch?v=YJVj4XNASDk
